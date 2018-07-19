@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Python 3.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-18 19:36+0300\n"
-"PO-Revision-Date: 2018-07-19 13:07+0300\n"
+"PO-Revision-Date: 2018-07-19 17:55+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -479,19 +479,28 @@ msgid ""
 "class:`bytearray` -- it has the same non-mutating methods and the same "
 "indexing and slicing behavior."
 msgstr ""
+"Возвращает новый объект \"bytes\", который является немутабельной "
+"последовательностью целых чисел в диапазоне ``0 <= x < 256``. :class:`bytes` "
+"-- немутабельная версия класса :class:`bytearray` -- оба класса обладают "
+"одинаковыми немутабельными методами, а также обладают возможностями по "
+"работе с индексами и слайсами."
 
 #: ../Doc/library/functions.rst:169
 msgid ""
 "Accordingly, constructor arguments are interpreted as for :func:`bytearray`."
 msgstr ""
+"Следовательно, аргументы конструктора интерпретируются точно также как и "
+"для :func:`bytearray`."
 
 #: ../Doc/library/functions.rst:171
 msgid "Bytes objects can also be created with literals, see :ref:`strings`."
 msgstr ""
+"Объект байтов также может быть создан с использованием литералов, см. :ref:"
+"`strings`."
 
 #: ../Doc/library/functions.rst:173
 msgid "See also :ref:`binaryseq`, :ref:`typebytes`, and :ref:`bytes-methods`."
-msgstr ""
+msgstr "См. также :ref:`binaryseq`, :ref:`typebytes`, и :ref:`bytes-methods`."
 
 #: ../Doc/library/functions.rst:178
 msgid ""
@@ -501,12 +510,19 @@ msgid ""
 "classes are callable (calling a class returns a new instance); instances are "
 "callable if their class has a :meth:`__call__` method."
 msgstr ""
+"Возвращает :const:`True`, если аргумент *object* кажется вызываемым, :const:"
+"`False` если нет. Если функция возвращает истину, то вероятность что вызов "
+"объекта не удасться существует, но если функция возвращает ложь, то вызов "
+"*object* никогда не будет успешным. Обратите внимания, что классы всегда "
+"вызываемы (вызов класса возвращает его экземпляр); экземпляр класса "
+"вызываем, только если в классе реализован метод :meth:`__call__`."
 
 #: ../Doc/library/functions.rst:184
 msgid ""
 "This function was first removed in Python 3.0 and then brought back in "
 "Python 3.2."
 msgstr ""
+"Данная функция была удалена в Python 3.0, но появилась обратно в Python 3.2."
 
 #: ../Doc/library/functions.rst:191
 msgid ""
@@ -514,16 +530,23 @@ msgid ""
 "integer *i*.  For example, ``chr(97)`` returns the string ``'a'``, while "
 "``chr(8364)`` returns the string ``'€'``. This is the inverse of :func:`ord`."
 msgstr ""
+"Возвращает строку представляющую символ расположенный на *i* позиции в "
+"таблице Unicode. Например, ``chr(97)`` возвращает строку ``'a'``, а "
+"``chr(8364)`` возвращает строку ``'€'``. Эта функция является обратной для :"
+"func:`ord`."
 
 #: ../Doc/library/functions.rst:195
 msgid ""
 "The valid range for the argument is from 0 through 1,114,111 (0x10FFFF in "
 "base 16).  :exc:`ValueError` will be raised if *i* is outside that range."
 msgstr ""
+"Корректный диапазон аргумента от 0 по 1,114,111 (0x10FFFF в "
+"шестнадцатиричной системе счисления). Исключение :exc:`ValueError` будет "
+"выброшено, если значение *i* выйдет из диапазона."
 
 #: ../Doc/library/functions.rst:201
 msgid "Transform a method into a class method."
-msgstr ""
+msgstr "Преобразует метод в метод класса."
 
 #: ../Doc/library/functions.rst:203
 msgid ""
@@ -531,12 +554,17 @@ msgid ""
 "instance method receives the instance. To declare a class method, use this "
 "idiom::"
 msgstr ""
+"Метод класса неявно принимает ссылку на класс как первый аргумент, точно "
+"также как метод экземпляра класса принимает ссылку на экземпляр. Для "
+"определения метода класса используйте следующую идиому:"
 
 #: ../Doc/library/functions.rst:211
 msgid ""
 "The ``@classmethod`` form is a function :term:`decorator` -- see the "
 "description of function definitions in :ref:`function` for details."
 msgstr ""
+"``@classmethod`` это функция :term:`decorator` -- см. описание определений "
+"функции в :ref:`function` для подробностей."
 
 #: ../Doc/library/functions.rst:214
 msgid ""
@@ -545,18 +573,26 @@ msgid ""
 "class method is called for a derived class, the derived class object is "
 "passed as the implied first argument."
 msgstr ""
+"Она может быть вызывна либо у класса (как ``C.f()``) или у экземпляра (как "
+"``C().f()``). Экземпляр будет проигнорирован, передан будет его класс. Если "
+"метод класса вызывается у дочернего класса (в случае наследования), то "
+"дочерний класс передается в качестве первого аргумента."
 
 #: ../Doc/library/functions.rst:219
 msgid ""
 "Class methods are different than C++ or Java static methods. If you want "
 "those, see :func:`staticmethod` in this section."
 msgstr ""
+"Методы класса отличаются от статических методов в C++ или Java. Если вам "
+"нужны именно они, смотрите :func:`staticmethod` на этой странице."
 
 #: ../Doc/library/functions.rst:222
 msgid ""
 "For more information on class methods, consult the documentation on the "
 "standard type hierarchy in :ref:`types`."
 msgstr ""
+"Дополнительную информацию о методах классов, можно получить в документации о "
+"стандартной иерархии типов в :ref:`types`."
 
 #: ../Doc/library/functions.rst:228
 msgid ""
@@ -565,6 +601,11 @@ msgid ""
 "string, a byte string, or an AST object.  Refer to the :mod:`ast` module "
 "documentation for information on how to work with AST objects."
 msgstr ""
+"Компилирует *source* в код или AST объект. Объект кода может быть исполнен "
+"функцией :func:`exec` или :func:`eval`. *Source* может быть или обычной "
+"строкой, или строкой байтов, или AST объектом. Вы можете обратиться к "
+"документации к модулю :mod:`ast` для получения информации о том как работать "
+"с AST объектами."
 
 #: ../Doc/library/functions.rst:233
 msgid ""
@@ -572,6 +613,9 @@ msgid ""
 "pass some recognizable value if it wasn't read from a file (``'<string>'`` "
 "is commonly used)."
 msgstr ""
+"Аргумент *filename* должен указывать на файл, код которого был считан; вам "
+"следует передать какую-либо узнаваемую строку, если код не был считан из "
+"файла (обычно используется ``'<string>'``)."
 
 #: ../Doc/library/functions.rst:237
 msgid ""

@@ -3,39 +3,40 @@
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-18 19:36+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-07-19 16:03+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ../Doc/tools/templates/customsourcelink.html:3
 msgid "This Page"
-msgstr ""
+msgstr "Эта страница"
 
 #: ../Doc/tools/templates/customsourcelink.html:5
 msgid "Report a Bug"
-msgstr ""
+msgstr "Зарегистрировать ошибку"
 
 #: ../Doc/tools/templates/customsourcelink.html:8
 msgid "Show Source"
-msgstr ""
+msgstr "Показать исходный текст"
 
 #: ../Doc/tools/templates/dummy.html:6
 msgid "CPython implementation detail:"
-msgstr ""
+msgstr "Детали реализации Cpython:"
 
 #: ../Doc/tools/templates/dummy.html:7
 msgid ""
 "Deprecated since version {deprecated}, will be removed in version {removed}"
-msgstr ""
+msgstr "*Deprecated* c версии {deprecated}, будет удалено в версии {removed}"
 
 #: ../Doc/tools/templates/indexcontent.html:8
 msgid "Welcome! This is the documentation for Python %(release)s."
@@ -43,7 +44,7 @@ msgstr "Добро пожаловать! Документация к языку 
 
 #: ../Doc/tools/templates/indexcontent.html:10
 msgid "Parts of the documentation:"
-msgstr "Разделы документации"
+msgstr "Разделы документации:"
 
 #: ../Doc/tools/templates/indexcontent.html:13
 msgid "What's new in Python %(version)s?"
@@ -52,7 +53,7 @@ msgstr "Что нового в Python %(version)s?"
 #: ../Doc/tools/templates/indexcontent.html:14
 msgid ""
 "or <a href=\"%(whatsnew_index)s\">all \"What's new\" documents</a> since 2.0"
-msgstr ""
+msgstr "или <a href=\"%(whatsnew_index)s\">что вообще нового</a> с версии 2.0"
 
 #: ../Doc/tools/templates/indexcontent.html:15
 msgid "Tutorial"
@@ -68,7 +69,7 @@ msgstr "Стандартная библиотека"
 
 #: ../Doc/tools/templates/indexcontent.html:18
 msgid "keep this under your pillow"
-msgstr ""
+msgstr "держите ее под подушкой"
 
 #: ../Doc/tools/templates/indexcontent.html:19
 msgid "Language Reference"
@@ -92,7 +93,7 @@ msgstr "Python HOWTOs"
 
 #: ../Doc/tools/templates/indexcontent.html:24
 msgid "in-depth documents on specific topics"
-msgstr ""
+msgstr "углубленная документация на определенные темы"
 
 #: ../Doc/tools/templates/indexcontent.html:26
 msgid "Installing Python Modules"
@@ -100,7 +101,7 @@ msgstr "Установка модулей языка Python"
 
 #: ../Doc/tools/templates/indexcontent.html:27
 msgid "installing from the Python Package Index &amp; other sources"
-msgstr "установка из Python Package Index &amp и других источников"
+msgstr "установка из Python Package Index и других источников"
 
 #: ../Doc/tools/templates/indexcontent.html:28
 msgid "Distributing Python Modules"
@@ -120,7 +121,7 @@ msgstr "руководство для программистов С/С++"
 
 #: ../Doc/tools/templates/indexcontent.html:32
 msgid "Python/C API"
-msgstr ""
+msgstr "Python/C API"
 
 #: ../Doc/tools/templates/indexcontent.html:33
 msgid "reference for C/C++ programmers"
@@ -132,15 +133,15 @@ msgstr "ЧаВо"
 
 #: ../Doc/tools/templates/indexcontent.html:35
 msgid "frequently asked questions (with answers!)"
-msgstr "Частые вопросы (с ответами!)"
+msgstr "частые вопросы (с ответами!)"
 
 #: ../Doc/tools/templates/indexcontent.html:39
 msgid "Indices and tables:"
-msgstr "Индиксы и таблицы"
+msgstr "Указатели и таблицы:"
 
 #: ../Doc/tools/templates/indexcontent.html:42
 msgid "Global Module Index"
-msgstr "Global Module Index"
+msgstr "Глобальный указатель по модулям"
 
 #: ../Doc/tools/templates/indexcontent.html:43
 msgid "quick access to all modules"
@@ -148,7 +149,7 @@ msgstr "быстрый доступ ко всем модулям"
 
 #: ../Doc/tools/templates/indexcontent.html:44
 msgid "General Index"
-msgstr "General Index"
+msgstr "Общий указатель"
 
 #: ../Doc/tools/templates/indexcontent.html:45
 msgid "all functions, classes, terms"
@@ -172,7 +173,7 @@ msgstr "поиск по документации"
 
 #: ../Doc/tools/templates/indexcontent.html:51
 msgid "Complete Table of Contents"
-msgstr "Полная таблица с содержанием"
+msgstr "Подробное содержание"
 
 #: ../Doc/tools/templates/indexcontent.html:52
 msgid "lists all sections and subsections"
@@ -180,7 +181,7 @@ msgstr "перечислены все секции и подсекции"
 
 #: ../Doc/tools/templates/indexcontent.html:56
 msgid "Meta information:"
-msgstr "Мета информация"
+msgstr "Мета информация:"
 
 #: ../Doc/tools/templates/indexcontent.html:59
 msgid "Reporting bugs"
@@ -197,7 +198,7 @@ msgstr "История и Лицензия языка Python"
 #: ../Doc/tools/templates/indexcontent.html:63
 #: ../Doc/tools/templates/layout.html:108
 msgid "Copyright"
-msgstr "Copyright"
+msgstr "Авторские права"
 
 #: ../Doc/tools/templates/indexsidebar.html:1
 msgid "Download"
@@ -253,7 +254,7 @@ msgstr "Аудио/Видео"
 
 #: ../Doc/tools/templates/layout.html:10
 msgid "Documentation "
-msgstr "Документация"
+msgstr "Документация "
 
 #: ../Doc/tools/templates/layout.html:21
 msgid "Quick search"
@@ -261,11 +262,11 @@ msgstr "Быстрый поиск"
 
 #: ../Doc/tools/templates/layout.html:22
 msgid "Go"
-msgstr "Поиск"
+msgstr "Go"
 
 #: ../Doc/tools/templates/layout.html:110
 msgid "The Python Software Foundation is a non-profit corporation."
-msgstr "The Python Software Foundation -- некоммерческая организация"
+msgstr "The Python Software Foundation -- некоммерческая организация."
 
 #: ../Doc/tools/templates/layout.html:111
 msgid "Please donate."
@@ -277,11 +278,12 @@ msgstr "Последнее обновление %(last_updated)s."
 
 #: ../Doc/tools/templates/layout.html:114
 msgid "<a href=\"%(pathto_bugs)s\">Found a bug</a>?"
-msgstr "<a href=\"%(pathto_bugs)s\">Нашли ошибку?</a>"
+msgstr "<a href=\"%(pathto_bugs)s\">Нашли ошибку</a>?"
 
 #: ../Doc/tools/templates/layout.html:116
 msgid ""
 "Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
 "%(sphinx_version)s."
-msgstr "Создано с помощью <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
+msgstr ""
+"Создано с помощью <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
 "%(sphinx_version)s."
