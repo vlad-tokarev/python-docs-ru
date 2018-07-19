@@ -3,7 +3,7 @@ Russian Translation of the Python Documentation
 
 (Makefile and workflow were copied from official French docs project)
 
-**Translated: 0%**
+**Translated: 0.5%**
 
 Documentation Contribution Agreement
 ------------------------------------
