@@ -3,304 +3,308 @@
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-18 19:36+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-07-19 13:07+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ../Doc/library/functions.rst:5 ../Doc/library/functions.rst:11
 msgid "Built-in Functions"
-msgstr ""
+msgstr "Встроенные функции"
 
 #: ../Doc/library/functions.rst:7
 msgid ""
 "The Python interpreter has a number of functions and types built into it "
 "that are always available.  They are listed here in alphabetical order."
 msgstr ""
+"Интерпретатор языка Python имеет ряд встроенных функций и типов, которые "
+"всегда доступны для использования. Они перечислены в данном документе в "
+"алфавитном порядке."
 
 #: ../Doc/library/functions.rst:13
 msgid ":func:`abs`"
-msgstr ""
+msgstr ":func:`delattr`"
 
 #: ../Doc/library/functions.rst:13
 msgid ":func:`delattr`"
-msgstr ""
+msgstr ":func:`delattr`"
 
 #: ../Doc/library/functions.rst:13
 msgid ":func:`hash`"
-msgstr ""
+msgstr ":func:`hash`"
 
 #: ../Doc/library/functions.rst:13
 msgid "|func-memoryview|_"
-msgstr ""
+msgstr "|func-memoryview|_"
 
 #: ../Doc/library/functions.rst:13
 msgid "|func-set|_"
-msgstr ""
+msgstr "|func-set|_"
 
 #: ../Doc/library/functions.rst:14
 msgid ":func:`all`"
-msgstr ""
+msgstr ":func:`all`"
 
 #: ../Doc/library/functions.rst:14
 msgid "|func-dict|_"
-msgstr ""
+msgstr "|func-dict|_"
 
 #: ../Doc/library/functions.rst:14
 msgid ":func:`help`"
-msgstr ""
+msgstr ":func:`help`"
 
 #: ../Doc/library/functions.rst:14
 msgid ":func:`min`"
-msgstr ""
+msgstr ":func:`min`"
 
 #: ../Doc/library/functions.rst:14
 msgid ":func:`setattr`"
-msgstr ""
+msgstr ":func:`setattr`"
 
 #: ../Doc/library/functions.rst:15
 msgid ":func:`any`"
-msgstr ""
+msgstr ":func:`any`"
 
 #: ../Doc/library/functions.rst:15
 msgid ":func:`dir`"
-msgstr ""
+msgstr ":func:`dir`"
 
 #: ../Doc/library/functions.rst:15
 msgid ":func:`hex`"
-msgstr ""
+msgstr ":func:`hex`"
 
 #: ../Doc/library/functions.rst:15
 msgid ":func:`next`"
-msgstr ""
+msgstr ":func:`next`"
 
 #: ../Doc/library/functions.rst:15
 msgid ":func:`slice`"
-msgstr ""
+msgstr ":func:`slice`"
 
 #: ../Doc/library/functions.rst:16
 msgid ":func:`ascii`"
-msgstr ""
+msgstr ":func:`ascii`"
 
 #: ../Doc/library/functions.rst:16
 msgid ":func:`divmod`"
-msgstr ""
+msgstr ":func:`divmod`"
 
 #: ../Doc/library/functions.rst:16
 msgid ":func:`id`"
-msgstr ""
+msgstr ":func:`id`"
 
 #: ../Doc/library/functions.rst:16
 msgid ":func:`object`"
-msgstr ""
+msgstr ":func:`object`"
 
 #: ../Doc/library/functions.rst:16
 msgid ":func:`sorted`"
-msgstr ""
+msgstr ":func:`sorted`"
 
 #: ../Doc/library/functions.rst:17
 msgid ":func:`bin`"
-msgstr ""
+msgstr ":func:`bin`"
 
 #: ../Doc/library/functions.rst:17
 msgid ":func:`enumerate`"
-msgstr ""
+msgstr ":func:`enumerate`"
 
 #: ../Doc/library/functions.rst:17
 msgid ":func:`input`"
-msgstr ""
+msgstr ":func:`input`"
 
 #: ../Doc/library/functions.rst:17
 msgid ":func:`oct`"
-msgstr ""
+msgstr ":func:`oct`"
 
 #: ../Doc/library/functions.rst:17
 msgid ":func:`staticmethod`"
-msgstr ""
+msgstr ":func:`staticmethod`"
 
 #: ../Doc/library/functions.rst:18
 msgid ":func:`bool`"
-msgstr ""
+msgstr ":func:`bool`"
 
 #: ../Doc/library/functions.rst:18
 msgid ":func:`eval`"
-msgstr ""
+msgstr ":func:`eval`"
 
 #: ../Doc/library/functions.rst:18
 msgid ":func:`int`"
-msgstr ""
+msgstr ":func:`int`"
 
 #: ../Doc/library/functions.rst:18
 msgid ":func:`open`"
-msgstr ""
+msgstr ":func:`open`"
 
 #: ../Doc/library/functions.rst:18
 msgid "|func-str|_"
-msgstr ""
+msgstr "|func-str|_"
 
 #: ../Doc/library/functions.rst:19
 msgid ":func:`breakpoint`"
-msgstr ""
+msgstr ":func:`breakpoint`"
 
 #: ../Doc/library/functions.rst:19
 msgid ":func:`exec`"
-msgstr ""
+msgstr ":func:`exec`"
 
 #: ../Doc/library/functions.rst:19
 msgid ":func:`isinstance`"
-msgstr ""
+msgstr ":func:`isinstance`"
 
 #: ../Doc/library/functions.rst:19
 msgid ":func:`ord`"
-msgstr ""
+msgstr ":func:`ord`"
 
 #: ../Doc/library/functions.rst:19
 msgid ":func:`sum`"
-msgstr ""
+msgstr ":func:`sum`"
 
 #: ../Doc/library/functions.rst:20
 msgid "|func-bytearray|_"
-msgstr ""
+msgstr "|func-bytearray|_"
 
 #: ../Doc/library/functions.rst:20
 msgid ":func:`filter`"
-msgstr ""
+msgstr ":func:`filter`"
 
 #: ../Doc/library/functions.rst:20
 msgid ":func:`issubclass`"
-msgstr ""
+msgstr ":func:`issubclass`"
 
 #: ../Doc/library/functions.rst:20
 msgid ":func:`pow`"
-msgstr ""
+msgstr ":func:`pow`"
 
 #: ../Doc/library/functions.rst:20
 msgid ":func:`super`"
-msgstr ""
+msgstr ":func:`super`"
 
 #: ../Doc/library/functions.rst:21
 msgid "|func-bytes|_"
-msgstr ""
+msgstr "|func-bytes|_"
 
 #: ../Doc/library/functions.rst:21
 msgid ":func:`float`"
-msgstr ""
+msgstr ":func:`float`"
 
 #: ../Doc/library/functions.rst:21
 msgid ":func:`iter`"
-msgstr ""
+msgstr ":func:`iter`"
 
 #: ../Doc/library/functions.rst:21
 msgid ":func:`print`"
-msgstr ""
+msgstr ":func:`print`"
 
 #: ../Doc/library/functions.rst:21
 msgid "|func-tuple|_"
-msgstr ""
+msgstr "|func-tuple|_"
 
 #: ../Doc/library/functions.rst:22
 msgid ":func:`callable`"
-msgstr ""
+msgstr ":func:`callable`"
 
 #: ../Doc/library/functions.rst:22
 msgid ":func:`format`"
-msgstr ""
+msgstr ":func:`format`"
 
 #: ../Doc/library/functions.rst:22
 msgid ":func:`len`"
-msgstr ""
+msgstr ":func:`len`"
 
 #: ../Doc/library/functions.rst:22
 msgid ":func:`property`"
-msgstr ""
+msgstr ":func:`property`"
 
 #: ../Doc/library/functions.rst:22
 msgid ":func:`type`"
-msgstr ""
+msgstr ":func:`type`"
 
 #: ../Doc/library/functions.rst:23
 msgid ":func:`chr`"
-msgstr ""
+msgstr ":func:`chr`"
 
 #: ../Doc/library/functions.rst:23
 msgid "|func-frozenset|_"
-msgstr ""
+msgstr "|func-frozenset|_"
 
 #: ../Doc/library/functions.rst:23
 msgid "|func-list|_"
-msgstr ""
+msgstr "|func-list|_"
 
 #: ../Doc/library/functions.rst:23
 msgid "|func-range|_"
-msgstr ""
+msgstr "|func-range|_"
 
 #: ../Doc/library/functions.rst:23
 msgid ":func:`vars`"
-msgstr ""
+msgstr ":func:`vars`"
 
 #: ../Doc/library/functions.rst:24
 msgid ":func:`classmethod`"
-msgstr ""
+msgstr ":func:`classmethod`"
 
 #: ../Doc/library/functions.rst:24
 msgid ":func:`getattr`"
-msgstr ""
+msgstr ":func:`getattr`"
 
 #: ../Doc/library/functions.rst:24
 msgid ":func:`locals`"
-msgstr ""
+msgstr ":func:`locals`"
 
 #: ../Doc/library/functions.rst:24
 msgid ":func:`repr`"
-msgstr ""
+msgstr ":func:`repr`"
 
 #: ../Doc/library/functions.rst:24
 msgid ":func:`zip`"
-msgstr ""
+msgstr ":func:`zip`"
 
 #: ../Doc/library/functions.rst:25
 msgid ":func:`compile`"
-msgstr ""
+msgstr ":func:`compile`"
 
 #: ../Doc/library/functions.rst:25
 msgid ":func:`globals`"
-msgstr ""
+msgstr ":func:`globals`"
 
 #: ../Doc/library/functions.rst:25
 msgid ":func:`map`"
-msgstr ""
+msgstr ":func:`map`"
 
 #: ../Doc/library/functions.rst:25
 msgid ":func:`reversed`"
-msgstr ""
+msgstr ":func:`reversed`"
 
 #: ../Doc/library/functions.rst:25
 msgid ":func:`__import__`"
-msgstr ""
+msgstr ":func:`__import__`"
 
 #: ../Doc/library/functions.rst:26
 msgid ":func:`complex`"
-msgstr ""
+msgstr ":func:`complex`"
 
 #: ../Doc/library/functions.rst:26
 msgid ":func:`hasattr`"
-msgstr ""
+msgstr ":func:`hasattr`"
 
 #: ../Doc/library/functions.rst:26
 msgid ":func:`max`"
-msgstr ""
+msgstr ":func:`max`"
 
 #: ../Doc/library/functions.rst:26
 msgid ":func:`round`"
-msgstr ""
+msgstr ":func:`round`"
 
 #: ../Doc/library/functions.rst:45
 msgid ""
@@ -308,18 +312,26 @@ msgid ""
 "floating point number.  If the argument is a complex number, its magnitude "
 "is returned."
 msgstr ""
+"Возвращает модуль числа. Аргумент может быть целым числом или числом с "
+"плавающей точкой. Если аргумент является комплексным числом, то его мнимая "
+"часть будет проигнорирована."
 
 #: ../Doc/library/functions.rst:52
 msgid ""
 "Return ``True`` if all elements of the *iterable* are true (or if the "
 "iterable is empty).  Equivalent to::"
 msgstr ""
+"Возвращает ``True`` если все элементы в *итерируемом объекте* имеют значение "
+"true (или если итерируемый объект пуст). Эквивалентно следующему коду::"
 
 #: ../Doc/library/functions.rst:64
 msgid ""
 "Return ``True`` if any element of the *iterable* is true.  If the iterable "
 "is empty, return ``False``.  Equivalent to::"
 msgstr ""
+"Возвращает ``True`` если хотя бы один элемент в *итерируемом объекте* имеет "
+"значение true. Если итерируемый объект пуст, то возвращает ``False``. "
+"Эквивалентно следующему коду::"
 
 #: ../Doc/library/functions.rst:76
 msgid ""
@@ -328,6 +340,11 @@ msgid ""
 "`repr` using ``\\x``, ``\\u`` or ``\\U`` escapes.  This generates a string "
 "similar to that returned by :func:`repr` in Python 2."
 msgstr ""
+"Как и :func:`repr`, возвращает строку содержащую представление объекта для "
+"отображения в консоли. Но после получения строки от функции :func:`repr`-- "
+"экранирует символы, отсутствующие в ASCII кодировке с помощью ``\\x``, ``"
+"\\u`` или ``\\U``. Подобный результат возвращает функция :func:`repr` в "
+"Python 2."
 
 #: ../Doc/library/functions.rst:84
 msgid ""
@@ -336,16 +353,22 @@ msgid ""
 "object, it has to define an :meth:`__index__` method that returns an "
 "integer. Some examples:"
 msgstr ""
+"Конвертирует целое число в строку, отображающую двоичную кодировку числа с "
+"префиксом \"0b\". Если *x* не имеет тип :class:`int`, то он может "
+"реализовать метод :meth:`__index__` method, который возвращает целое число. "
+"Несколько примеров:"
 
 #: ../Doc/library/functions.rst:94
 msgid ""
 "If prefix \"0b\" is desired or not, you can use either of the following ways."
 msgstr ""
+"Если префикс \"0b\" не желателен, вы можете использовать следующие способы, "
+"чтобы избавиться от него."
 
 #: ../Doc/library/functions.rst:101 ../Doc/library/functions.rst:692
 #: ../Doc/library/functions.rst:947
 msgid "See also :func:`format` for more information."
-msgstr ""
+msgstr "См. функцию :func:`format` для дополнительной информации."
 
 #: ../Doc/library/functions.rst:106
 msgid ""
@@ -356,6 +379,13 @@ msgid ""
 "It cannot be subclassed further.  Its only instances are ``False`` and "
 "``True`` (see :ref:`bltin-boolean-values`)."
 msgstr ""
+"Возвращает булево значение, то есть либо ``True``, либо ``False``. *x* "
+"конвертируется в булевый тип используя стардартную :ref:`процедуру проверки "
+"на истину <truth>`. Если *x* -- ложь или аргумент не передан, то функция "
+"возвращает ``False``, в противном случае -- ``True``. Класс :class:`bool` "
+"является подклассом класса :class:`int` (см. :ref:`typesnumeric`). От булева "
+"типа запрещено наследовать классы. Единственные значения данного типа -- "
+"``False`` и ``True`` (см :ref:`bltin-boolean-values`)."
 
 #: ../Doc/library/functions.rst:118
 msgid ""
@@ -368,6 +398,15 @@ msgid ""
 "other function and :func:`breakpoint` will automatically call that, allowing "
 "you to drop into the debugger of choice."
 msgstr ""
+"Данная функция переключает вас на отладчик в точке ее вызова. Конкретно, она "
+"вызывает :func:`sys.breakpointhook`, передавая ``args`` и ``kws``. По "
+"умолчанию, ``sys.breakpointhook()`` вызывает  :func:`pdb.set_trace()`, "
+"который не ожидает аргументов. В этом случае, функция играет роль "
+"синтаксического сахара -- вам не нужно явно импортировать модуль :mod:`pdb` "
+"или писать лишний код для входа в отладчик. Тем ни менее, :func:`sys."
+"breakpointhook` может быть установлена как указатель на другую функцию, и "
+"тогда  :func:`breakpoint` автоматически вызовет последнюю, позволяя "
+"запустить отладчик по выбору."
 
 #: ../Doc/library/functions.rst:134
 msgid ""
@@ -376,12 +415,19 @@ msgid ""
 "methods of mutable sequences, described in :ref:`typesseq-mutable`, as well "
 "as most methods that the :class:`bytes` type has, see :ref:`bytes-methods`."
 msgstr ""
+"Возвращает новый массив байтов. Класс :class:`bytearray`представляет собой "
+"мутабельную последовательность целых чисел в интервале 0 <= x < 256. Он "
+"обладает большинством методов типичных для мутабельных последовательностей, "
+"описанных в :ref:`typesseq-mutable`, а также большинством методов, которыми "
+"обладает тип :class:`bytes`, см. :ref:`bytes-methods`."
 
 #: ../Doc/library/functions.rst:139
 msgid ""
 "The optional *source* parameter can be used to initialize the array in a few "
 "different ways:"
 msgstr ""
+"Необязательный параметр *source* может быть использован для инициализации "
+"массива следующими способами:"
 
 #: ../Doc/library/functions.rst:142
 msgid ""
@@ -389,32 +435,42 @@ msgid ""
 "*errors*) parameters; :func:`bytearray` then converts the string to bytes "
 "using :meth:`str.encode`."
 msgstr ""
+"Если параметр это *строка*, то вы также обязаны передать *encoding* (и, "
+"возможно, *errors*) параметр; :func:`bytearray` конвертирует строку в байты, "
+"используя :meth:`str.encode`."
 
 #: ../Doc/library/functions.rst:146
 msgid ""
 "If it is an *integer*, the array will have that size and will be initialized "
 "with null bytes."
 msgstr ""
+"Если параметр это *целое число*, то возвращаемый массив будет иметь "
+"соответствующий размер, а также будет инициализирован нулевыми байтами."
 
 #: ../Doc/library/functions.rst:149
 msgid ""
 "If it is an object conforming to the *buffer* interface, a read-only buffer "
 "of the object will be used to initialize the bytes array."
 msgstr ""
+"Если параметр это объект, реализующий интерфейс *buffer*, то *read-only* "
+"буфер объекта будет использован для инициализации массива байтов."
 
 #: ../Doc/library/functions.rst:152
 msgid ""
 "If it is an *iterable*, it must be an iterable of integers in the range ``0 "
 "<= x < 256``, which are used as the initial contents of the array."
 msgstr ""
+"Если параметр это *итерируемый объект*, он обязан быть итерируемым объектом "
+"целых чисел в диапазоне ``0 <= x < 256``, которые будут использованы для "
+"наполнения массива при инициализации."
 
 #: ../Doc/library/functions.rst:155
 msgid "Without an argument, an array of size 0 is created."
-msgstr ""
+msgstr "При вызове без аргумента, создается массив с нулевым размером."
 
 #: ../Doc/library/functions.rst:157
 msgid "See also :ref:`binaryseq` and :ref:`typebytearray`."
-msgstr ""
+msgstr "См. также :ref:`binaryseq` и :ref:`typebytearray`."
 
 #: ../Doc/library/functions.rst:164
 msgid ""
